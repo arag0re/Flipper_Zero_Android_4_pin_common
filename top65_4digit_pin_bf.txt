@@ -315,7 +315,7 @@ ENTER
 DELAY 31000
 ENTER
 
-REMIncluding the 5 least used pins to factor in target having some OpSec
+REM Including the 5 least used pins to factor in target having some OpSec
 
 ENTER
 DELAY 500
